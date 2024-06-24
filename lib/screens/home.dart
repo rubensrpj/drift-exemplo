@@ -47,7 +47,7 @@ class _HomePageState extends ConsumerState<HomePage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Drift Todo list'),
+        title: const Text('Todo list'),
         actions: [
           const BackupIcon(),
           IconButton(
